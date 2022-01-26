@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.AssemblyInfo.cs
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.csproj.CoreCompileInputs.cache
