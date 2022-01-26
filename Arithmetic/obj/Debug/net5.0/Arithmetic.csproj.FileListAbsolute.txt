@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.csproj.AssemblyReference.cache
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.AssemblyInfoInputs.cache
@@ -14,3 +15,10 @@ C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmet
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\ref\Arithmetic.dll
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.pdb
 C:\Users\4400112799\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.genruntimeconfig.cache
+=======
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.AssemblyInfo.cs
+C:\Users\User\source\repos\Arithmetic\Arithmetic\obj\Debug\net5.0\Arithmetic.csproj.CoreCompileInputs.cache
+>>>>>>> b73b7bba19d514e60714fd9428ba39453ad66e92

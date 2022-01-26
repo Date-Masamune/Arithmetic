@@ -1,6 +1,7 @@
 ﻿using System;
 
-namespace Arithmetic {
+namespace Arithmetic
+{
    class Arithmetic
    {
       static void Main(string[] args)
@@ -32,6 +33,10 @@ namespace Arithmetic {
          Console.WriteLine($"quotient is {quotient}");
 
       }
+
+   }
+
+}
 
       }
 
