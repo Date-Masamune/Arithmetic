@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Arithmetic": {
+      "commandName": "Project",
+      "commandLineArgs": "\"user\" pass"
+    }
+  }
+}
